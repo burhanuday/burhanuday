@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burhanuddin Udaipurwala</h1>
 <h3 align="center">I am a Computer Engineering student at KJSIEIT, India</h3>
+
 - 🔭 I’m currently working on **improving my problem solving skills**
 
 - 👨‍💻 All of my projects are available at [burhanuday.tech](burhanuday.tech)
