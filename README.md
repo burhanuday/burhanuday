@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [burhanuday.tech](burhanuday.tech)
 
-- 📝 I regulary write articles on [https://medium.com/@burhanuday](https://medium.com/@burhanuday)
+- 📝 I regulary write articles on [https://blog.burhanuday.tech](https://blog.burhanuday.tech/)
 
 - 💬 Ask me about **React, React Native**
 
