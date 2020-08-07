@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my problem solving skills**
 
-- 👨‍💻 All of my projects are available at [burhanuday.tech](burhanuday.tech)
+- 👨‍💻 All of my projects are available at [burhanuday.tech](https://burhanuday.tech)
 
 - 📝 I regulary write articles on [https://blog.burhanuday.tech](https://blog.burhanuday.tech/)
 
