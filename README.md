@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [burhanuday.tech](https://burhanuday.tech)
 
-- 📝 I regulary write articles on [blog.burhanuday.tech](https://blog.burhanuday.tech/) and [Dev.to](https://dev.to/burhanuday)
+- 📝 I regulary write articles on [Dev.to](https://dev.to/burhanuday)
 
 - 💬 Ask me about **Javascript, React, React Native**
 
