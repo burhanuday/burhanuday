@@ -10,7 +10,7 @@ I am an aspiring software engineer focusing on building full stack applications 
 
 - 📫 How to reach me [udaipurwalaburhanuddin@gmail.com](mailto:udaipurwalaburhanuddin@gmail.com)
 
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/burhanuddin-udaipurwala/)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/burhanuddin-udaipurwala/) and [Twitter](https://twitter.com/burhanuday)
 
 - 📖 Currently I am learning Svelte and Sapper along with Typescript
 
