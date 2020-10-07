@@ -4,7 +4,7 @@ I am an aspiring software engineer focusing on building full stack applications 
 
 - 👨‍💻 All of my projects are available at [burhanuday.tech](https://burhanuday.tech)
 
-- 📝 I regulary write articles on [Dev.to](https://dev.to/burhanuday)
+- 📝 I regulary write articles on my [blog](https://blog.burhanuday.tech)
 
 - 💬 Ask me about Javascript, React and React Native
 
