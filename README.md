@@ -10,7 +10,7 @@ I am a software engineer focusing on building full stack applications that solve
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/burhanuddin-udaipurwala/) and [Twitter](https://twitter.com/burhanuday)
 
-- Things I work with on daily basis - HTML, CSS, Javascript, Typescript, ReactJS, NextJS, Firebase
+- Things I work with on daily basis - HTML, CSS, Javascript, Typescript, ReactJS, NextJS, NodeJS, Firebase
 
 - Currently learning - Golang
 
