@@ -2,7 +2,7 @@
 
 I am a software engineer focusing on building full stack applications that solve problems and exceed user expectations. 
 
-- You can read more about me at [burhanuday.tech](https://burhanuday.tech)
+- You can read more about me at [burhanuday.github.io](https://burhanuday.github.io)
 
 - I write on my [blog](https://dev.to/burhanuday)
 
