@@ -2,9 +2,9 @@
 
 I am a software engineer focusing on building full stack applications that solve problems and exceed user expectations. 
 
-- You can read more about me at [burhanuday.github.io](https://burhanuday.github.io)
+- You can read more about me at [burhanuday.com](https://burhanuday.com)
 
-- I write on my [blog](https://dev.to/burhanuday)
+- I write on my [blog](https://www.burhanuday.com/blog)
 
 - Reach me at [udaipurwalaburhanuddin@gmail.com](mailto:udaipurwalaburhanuddin@gmail.com)
 
@@ -14,4 +14,4 @@ I am a software engineer focusing on building full stack applications that solve
 
 - Currently learning - Golang
 
-- I also enjoy reading, speed cubing, playing a guitar
+- I also enjoy reading, speed cubing, playing my guitar
