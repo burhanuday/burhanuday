@@ -1,8 +1,6 @@
 # Hi 👋, I'm Burhanuddin Udaipurwala
 
-- Website - [burhanuday.com](https://burhanuday.com)
-
-- Blog - [burhanuday.com/blog](https://www.burhanuday.com/blog)
+- Website / Blog - [burhanuday.com](https://burhanuday.com)
 
 - Email - [udaipurwalaburhanuddin@gmail.com](mailto:udaipurwalaburhanuddin@gmail.com)
 
